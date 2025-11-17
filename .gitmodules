@@ -1,0 +1,6 @@
+[submodule "tapnet"]
+	path = tapnet
+	url = https://github.com/google-deepmind/tapnet
+[submodule "mvtracker"]
+	path = mvtracker
+	url = https://github.com/ethz-vlg/mvtracker
